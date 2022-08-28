@@ -1,4 +1,4 @@
-### Приветствую, я Frontend-разработчик 👋
+# Приветствую, я Frontend-разработчик 👋
 
 В настоящий момент я работаю с такими технологиями, как React, Redux, TypeScript
 
@@ -11,8 +11,8 @@
 [![Profile badge](https://www.codewars.com/users/tchigi/badges/large)](https://www.codewars.com/users/tchigi)
 
 ## Contacts
-# Discord: Tchigi#7163
-# Email: chig-ilya2010@yandex.ru
+### Discord: Tchigi#7163
+### mail: chig-ilya2010@yandex.ru
 
 ## Projects
 
