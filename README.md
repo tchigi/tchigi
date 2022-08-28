@@ -10,3 +10,14 @@
 
 [![Profile badge](https://www.codewars.com/users/tchigi/badges/large)](https://www.codewars.com/users/tchigi)
 
+## Contacts
+# Discord: Tchigi#7163
+# Email: chig-ilya2010@yandex.ru
+
+## Projects
+
+Некоторые из моих проектов:
+
+- (SPA) Приложение [RSLang](https://keen-feynman-655de5.netlify.app/) для изучения английского языка на React & TypeScript
+- (SPA) Приложение [Christmas](https://tchigi-christmas-tree.netlify.app/) наряди ёлку на React & TypeScript
+- Приложение [Momentum](https://tchigi-momentum.netlify.app/) копия расширения Momentum для Google Chrome на JavaScript
