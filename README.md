@@ -20,4 +20,3 @@
 
 - (SPA) Приложение [RSLang](https://keen-feynman-655de5.netlify.app/) для изучения английского языка на React & TypeScript
 - (SPA) Приложение [Christmas](https://tchigi-christmas-tree.netlify.app/) наряди ёлку на React & TypeScript
-- Приложение [Momentum](https://tchigi-momentum.netlify.app/) копия расширения Momentum для Google Chrome на JavaScript
