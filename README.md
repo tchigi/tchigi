@@ -20,3 +20,4 @@
 
 - (SPA) Приложение [RSLang](https://keen-feynman-655de5.netlify.app/) для изучения английского языка на React & TypeScript
 - (SPA) Приложение [Christmas](https://tchigi-christmas-tree.netlify.app/) наряди ёлку на React & TypeScript
+- (SPA) Fullstack Приложение [MyAniBook](https://myanibook.vercel.app/) для создания списка просмотренных аниме на React, TypeScript, NestJS
