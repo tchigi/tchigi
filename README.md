@@ -13,6 +13,7 @@
 ## Contacts
 ### Discord: Tchigi#7163
 ### Email: chig-ilya2010@yandex.ru
+### Telegram: [@Tchigi](https://t.me/Tchigi)
 
 ## Projects
 
