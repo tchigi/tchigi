@@ -20,3 +20,4 @@ Telegram: [@Tchigi](https://t.me/Tchigi)
 
 - (SPA) Приложение [Space Tourism](https://github.com/tchigi/space-tourism) для космических путешествий на Next.js, TypeScript, CSS Modules
 - (SPA) Fullstack Приложение [MyAniBook](https://myanibook.vercel.app/) для создания списка просмотренных аниме на React, TypeScript, NestJS
+- (SPA) Игра [Камень,Ножницы,Бумага](https://github.com/tchigi/rock-paper-scissors). Стек: Vite, React, TypeScript, Tailwind, Zustand
