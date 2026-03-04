@@ -51,7 +51,7 @@
       <br>
       <a href="https://space-tourism-seven-flame.vercel.app/"><img src="assets/space-tourism.jpg" width="100%" /></a>
       <h3>Space Tourism &nbsp;🚀&nbsp;</h3>
-      Многостраничный SPA по Figma-макету.<br><br>
+      Сайт туристического агентства по дизайн-макету.<br><br>
       <a href="https://github.com/tchigi/space-tourism">repo</a> · <a href="https://space-tourism-seven-flame.vercel.app/">demo</a><br>
       <code>Next.js</code> <code>TypeScript</code> <code>CSS Modules</code>
       <br><br>
