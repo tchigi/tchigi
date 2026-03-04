@@ -1,22 +1,60 @@
-# Приветствую, я Frontend-разработчик 👋
+# Ilya / Frontend Developer
 
-В настоящий момент я работаю с такими технологиями, как React, Redux, TypeScript
+Пишу на React + TypeScript, иногда покрываю и бэкенд. Также есть опыт в аналитике данных: Python, SQL, ETL.
 
-<img img align="right" alt="GIF" src="https://sambalpur.digivarsity.com/pluginfile.php/6089/course/overviewfiles/software%20engineering.gif" width="400" height="240" />
+---
 
-## Stack
-![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) ![CSS](https://img.shields.io/badge/CSS-2E4C6D?style=flat-square-endpoint&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-5089C6?style=flat-square-endpoint&logo=javascript&logoColor=) ![TypeScript](https://img.shields.io/badge/TypeScript-EEEEEE?style=flat-square-endpoint&logo=typescript&logoColor=) ![React](https://img.shields.io/badge/React-2E4C6D?style=flat-square-endpoint&logo=react&logoColor=) ![Redux](https://img.shields.io/badge/Redux-2E4C6D?style=flat-square-endpoint&logo=redux&logoColor=)
+### 🛠 Stack
 
-[![Profile badge](https://www.codewars.com/users/tchigi/badges/large)](https://www.codewars.com/users/tchigi)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,tailwind,vite,html,css,nodejs,nestjs,postgres,docker)](https://skillicons.dev)
 
-## Contacts
-Discord: Tchigi#7163  
-Email: chig-ilya2010@yandex.ru  
-Telegram: [@Tchigi](https://t.me/Tchigi)
+**+ из аналитики:** Python · PostgreSQL · ClickHouse · Apache Airflow · Apache Superset
 
-## Projects
+---
 
-Некоторые из моих проектов:
+### 🚀 Projects
 
-- (SPA) Приложение [Space Tourism](https://github.com/tchigi/space-tourism) для космических путешествий на Next.js, TypeScript, CSS Modules
-- (SPA) Игра [Камень,Ножницы,Бумага](https://github.com/tchigi/rock-paper-scissors). Стек: Vite, React, TypeScript, Tailwind, Zustand
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <a href="https://eatly-tchigi.vercel.app/"><img src="assets/eatly.jpg" width="100%" /></a>
+      <h3>Eatly &nbsp;🍽️&nbsp;</h3>
+      Food-сервис с тестами и документацией компонентов.<br><br>
+      <a href="https://github.com/tchigi/eatly">repo</a> · <a href="https://eatly-tchigi.vercel.app/">demo</a><br>
+      <code>React 18</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>Vitest</code> <code>CSS Modules</code> <code>Storybook</code>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <a href="https://rock-paper-scissors-tchigi.vercel.app/"><img src="assets/rps.jpg" width="100%" /></a>
+      <h3>Rock Paper Scissors &nbsp;✂️&nbsp;</h3>
+      Браузерная игра камень-ножницы-бумага.<br><br>
+      <a href="https://github.com/tchigi/rock-paper-scissors">repo</a> · <a href="https://rock-paper-scissors-tchigi.vercel.app/">demo</a><br>
+      <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Zustand</code>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <a href="https://myanibook.vercel.app/"><img src="assets/myanibook.jpg" width="100%" /></a>
+      <h3>MyAniBook 📚</h3>
+      Fullstack-приложение для ведения личного списка аниме.<br><br>
+      Frontend: <a href="https://github.com/tchigi/myanibook">repo</a> · <a href="https://myanibook.vercel.app/">demo</a><br>
+      <code>React 18</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>Styled Components</code><br><br>
+      Backend: <a href="https://github.com/tchigi/myanibook-api">repo</a> · <a href="https://myanibook-api.onrender.com/api/docs">demo</a><br>
+      <code>NestJS</code> <code>PostgreSQL</code> <code>Sequelize</code> <code>Docker</code> <code>Swagger</code> <code>JWT</code>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <a href="https://space-tourism-seven-flame.vercel.app/"><img src="assets/space-tourism.jpg" width="100%" /></a>
+      <h3>Space Tourism &nbsp;🚀&nbsp;</h3>
+      Многостраничный SPA по Figma-макету.<br><br>
+      <a href="https://github.com/tchigi/space-tourism">repo</a> · <a href="https://space-tourism-seven-flame.vercel.app/">demo</a><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>CSS Modules</code>
+      <br><br>
+    </td>
+  </tr>
+</table>
